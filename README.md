@@ -42,8 +42,7 @@ const developerInfo = {
 
 ## 🛠️ My Contributions
 
-- **Commits & Pull Requests:** The [Contribution Graph](https://github.com/omidranjbaran) above reflects my overall activity, including commits, pull requests, and more.
-- I actively contribute to open source projects and continuously improve my coding skills.
+While I am not yet actively contributing to open-source projects, I am constantly learning and improving my coding skills. I plan to start contributing to the community as I continue to grow as a developer.
 
 ## 🤝 Let's Connect
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/omidranjbarann)
