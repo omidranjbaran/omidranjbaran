@@ -1,4 +1,6 @@
-# Hi, I'm Omid Ranjbaran 👋
+<div align="center">
+  # Hi, I'm Omid Ranjbaran 👋
+</div>
 ![GitHub Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ```javascript
