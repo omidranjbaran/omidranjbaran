@@ -1,4 +1,5 @@
 # Hi, I'm Omid Ranjbaran 👋
+![GitHub Contribution Snake](https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg)
 
 ```javascript
 const developerInfo = {
