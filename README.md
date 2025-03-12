@@ -37,4 +37,4 @@ I'm a Front-End Developer from Isfahan, Iran. I specialize in creating clean and
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/omidrnn)
 
 ## 📫 How to Reach Me
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- Email: [your.email@example.com](omidrn58@gmail.com)
