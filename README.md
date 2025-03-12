@@ -13,8 +13,8 @@ I am a Front-End Developer from Isfahan, Iran. I love creating beautiful and use
 
 ## 📊 My GitHub Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=YOUR_GITHUB_USERNAME&theme=radical)](https://git.io/streak-stats)
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=omidranjbaran&theme=radical)](https://git.io/streak-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=omidranjbaran&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 🤝 Connect with Me
 
