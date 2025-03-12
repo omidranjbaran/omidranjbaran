@@ -1,7 +1,22 @@
 # Hi, I'm Omid Ranjbaran 👋
 
-I'm a Front-End Developer from Isfahan, Iran. I specialize in creating clean and responsive web interfaces using **HTML**, **CSS**, **JavaScript**, and **React**. I've also worked with **Python** and **Django**. I'm constantly learning and improving my skills.
-
+```javascript
+const developerInfo = {
+  role: "Front-End Developer",
+  location: "Isfahan, Iran",
+  specialization: [
+    "HTML", 
+    "CSS", 
+    "JavaScript", 
+    "React"
+  ],
+  experience: [
+    "Python",
+    "Django"
+  ],
+  description: "I specialize in creating clean and responsive web interfaces. I'm constantly learning and improving my skills."
+};
+```
 ## 🔧 Technologies & Tools
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
